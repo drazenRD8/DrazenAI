@@ -25,3 +25,34 @@ AI pomoćnik za Linux, mreže i bezbednost — sa lokalnim Ollama modelima.
 
 ```bash
 curl -fsSL https://ollama.ai/install.sh | sh
+
+## ⚠️ Odricanje od odgovornosti
+
+**Autor ne snosi nikakvu odgovornost za nelegalnu upotrebu ovog softvera.**
+
+Ovaj softver je namenjen **isključivo** za:
+- ✅ **Legalno** testiranje (na **sopstvenim** sistemima)
+- ✅ **Edukaciju** (učenje)
+- ✅ **Istraživanje** (sa **dozvolom**)
+- ✅ **Bug bounty** (sa **dozvolom**)
+
+**Zabranjeno je:**
+- ❌ **Neovlašćeno** pristupanje tuđim sistemima
+- ❌ **Napadi** na **tuđe** infrastrukture
+- ❌ **Kršenje** **zakona** o **cyber** **bezbednosti**
+- ❌ **Bilo** **kakva** **nelegalna** **upotreba**
+
+**Korisnik je isključivo odgovoran za:**
+- **Poštovanje** **lokalnih** **zakona**
+- **Dobijanje** **dozvole** **pre** **testiranja**
+- **Sve** **posledice** **upotrebe**
+
+**Autor neće biti odgovoran za:**
+- **Štetu** **nastalu** **upotrebom**
+- **Pravne** **posledice**
+- **Zloupotrebu** **softvera**
+
+> **Napomena:** Ime `DrazenAI` je lični brend autora.
+> Slobodno fork-ujte i modifikujte po potrebi.
+
+**Korišćenjem ovog softvera, prihvatate ove uslove.**
