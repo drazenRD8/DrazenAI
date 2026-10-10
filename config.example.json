@@ -1,0 +1,18 @@
+{
+  "version": "3.1",
+  "ime": "DrazenAI",
+  "ollama": {
+    "url": "http://127.0.0.1:11434",
+    "model": "llama3.2:latest",
+    "timeout": 120,
+    "system_prompt": "Ti si DrazenAI, tehnicki asistent specijalizovan za Linux, mreze i bezbednost."
+  },
+  "shell": {
+    "max_timeout": 60,
+    "dozvoli_kategoriju_8": true
+  },
+  "log": {
+    "fajl": "activity.log",
+    "max_velicina_mb": 5
+  }
+}

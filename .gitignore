@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logovi
+*.log
+activity.log
+
+# Config sa osetljivim podacima
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ollama
+ai_history.json
+
+# Test
+.pytest_cache/
