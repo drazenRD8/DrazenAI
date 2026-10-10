@@ -24,7 +24,7 @@ AI pomoćnik za Linux, mreže i bezbednost — sa lokalnim Ollama modelima.
 ### 1. Instaliraj Ollama
 
 ```bash
-curl -fsSL https://ollama.ai/install.sh | sh
+curl -fsSL https://ollama.com/install.sh | sh
 
 ## ⚠️ Odricanje od odgovornosti
 
